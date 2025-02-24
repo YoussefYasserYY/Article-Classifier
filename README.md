@@ -1,7 +1,7 @@
 # Article Classifier
 
 ## Overview
-The **Topic Classifier** is a Streamlit-based application that allows users to classify text into two distinct topics using a Naive Bayes classification approach. The model can be trained on either automatically generated datasets or user-uploaded text files. 
+The **Article Classifier** is a Streamlit-based application that allows users to classify text into two distinct topics using a Naive Bayes classification approach. The model can be trained on either automatically generated datasets or user-uploaded text files. 
 
 ## Features
 - **Load Data**: Users can either generate dataset labels or upload their own labeled text files.
